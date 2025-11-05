@@ -5,15 +5,6 @@
         alt="DIO - Code The Future">
 </a>
 </p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast e um ebook utilizando ferramentas de IA através de prompts mais trabalhado.
@@ -44,7 +35,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `Gemini`
 
-## 👨‍💻 Expert
+## 👨‍💻 Autor
 
 <p>
     <p>&nbsp&nbsp&nbspJoão Paulo Pedroso Maués<br>
