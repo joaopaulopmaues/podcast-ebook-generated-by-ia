@@ -24,7 +24,7 @@ Utilizei um pipeline de prompts para gerar cada etapa do processo criativo.
 - Audio gerado pela elevenLabs
 - Google Gemini Para gerar capas
 
-## 📚 Materiais
+## 📚 Materiais com o podcast e prompts utilizados
 
 - [Notion](https://www.notion.so/Exerc-cios-Fundamentos-de-IA-Generativa-2a10051863838111a7b3ef1f5f286c82?source=copy_link)
 
