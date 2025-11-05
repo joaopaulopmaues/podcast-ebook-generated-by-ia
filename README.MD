@@ -11,11 +11,6 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
 </p>
 
 <p align="center">
@@ -28,12 +23,9 @@
 
 # Projeto Podcast Gerado por I.A.s
 
+Projeto com o objetivo de gerar um podcast e um ebook utilizando ferramentas de IA através de prompts mais trabalhado.
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizei um pipeline de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -49,7 +41,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Notion](https://www.notion.so/Exerc-cios-Fundamentos-de-IA-Generativa-2a10051863838111a7b3ef1f5f286c82?source=copy_link)
 
 ## 🛠️ Instruções de execução
 
@@ -62,13 +54,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspJoão Paulo Pedroso Maués<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/joaopaulopmaues">
