@@ -5,6 +5,7 @@
         alt="DIO - Code The Future">
 </a>
 </p>
+
 # Projeto Podcast Gerado por I.A.s
 
 Projeto com o objetivo de gerar um podcast e um ebook utilizando ferramentas de IA através de prompts mais trabalhado.
